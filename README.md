@@ -8,13 +8,12 @@ Este repositório contém o desenvolvimento de um site institucional para um pro
 
 - **HTML5** – Estruturação semântica das páginas  
 - **CSS3** – Estilização e organização visual  
-- **JavaScript** (se aplicável) – Interatividade básica
 
 ---
 
 ## 📄 Estrutura do site
 
-### Página inicial (`index.html`):
+### Página inicial (`home.html`):
 - Seção institucional com introdução sobre o provedor
 - Apresentação dos serviços oferecidos
 - Resumo dos planos:
