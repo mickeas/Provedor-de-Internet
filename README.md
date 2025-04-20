@@ -47,7 +47,7 @@ Este repositório contém o desenvolvimento de um site institucional para um pro
 
 > Você pode adicionar aqui uma imagem do site:
 > ```
-> ![Screenshot do projeto](caminho/da/imagem.png)
+> ![Screenshot do projeto](projeto)
 > ```
 
 ---
