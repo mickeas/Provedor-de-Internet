@@ -43,16 +43,3 @@ Este repositório contém o desenvolvimento de um site institucional para um pro
 
 ---
 
-## 📷 Captura de tela (opcional)
-
-> Você pode adicionar aqui uma imagem do site:
-> ```
-> ![Screenshot do projeto](projeto)
-> ```
-
----
-
-## 🚀 Como visualizar o projeto
-
-Você pode visualizar o site abrindo o arquivo `index.html` diretamente no navegador ou acessando pelo GitHub Pages (se publicado):
-
